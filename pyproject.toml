@@ -32,7 +32,7 @@ Flask = "^1.1.1"
 geoserver-restconfig = "1.0.2"
 inquirer = "^2.6.3"
 jsonschema = "^3.2.0"
-lxml = "4.5.0"
+lxml = "4.9.1"
 OWSlib = "^0.19.0"
 python-dotenv = "^0.10.3"
 sentry-sdk = {version = "^0.13.5", extras = ["flask"]}
